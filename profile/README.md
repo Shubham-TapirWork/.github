@@ -6,10 +6,9 @@ This repo showcases my work on Tapir Protocol, a Web3 project. I contributed to:
 - GitBook docs, deployment on Vercel.
 
 **Context**:
-I worked 3 months but was unpaid ($2000/month), removed from Slack/GitHub, and abused by the team lead. After multiple failed attempts to resolve this, I’m open-sourcing my work.
+I worked 3 months but was unpaid ($1600/month), removed from Slack/GitHub, and abused by the team lead. After multiple failed attempts to resolve this, I’m open-sourcing my work.
 
-**Proofs**:
-- [Here](https://github.com/Shubham-TapirWork/proofs).
+**Proofs**: [Here](https://github.com/Shubham-TapirWork/proofs)
 
 **License**: MIT
 **Contact**: shubhamparkhi10@gmail.com
