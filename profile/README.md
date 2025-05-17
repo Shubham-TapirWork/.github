@@ -11,4 +11,5 @@ I worked 3 months but was unpaid ($1600/month), removed from Slack/GitHub, and a
 **Proofs**: [Here](https://github.com/Shubham-TapirWork/proofs)
 
 **License**: MIT
+
 **Contact**: shubhamparkhi10@gmail.com
